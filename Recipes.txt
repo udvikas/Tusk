@@ -6,3 +6,7 @@ Welcome to new home of becoming a FULL STACK DEVELOPER.
 
 
 Learning a new things here with passion.
+
+html
+css
+javascript
