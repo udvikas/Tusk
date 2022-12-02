@@ -3,3 +3,6 @@ Welcome to new home of becoming a FULL STACK DEVELOPER.
 
 1.Frontend
 2.Backend
+
+
+Learning a new things here with passion.
